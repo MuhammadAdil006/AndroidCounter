@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_0">0</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="zero">zero</string>
+</resources>
